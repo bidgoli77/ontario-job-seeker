@@ -1,0 +1,20 @@
+{
+  "name": "ontario-job-matcher",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Ontario Job Matcher - Resume to real Job Bank Canada jobs",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "fast-xml-parser": "4.3.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
