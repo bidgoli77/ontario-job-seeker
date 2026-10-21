@@ -1,8 +1,0 @@
-{
-  "framework": "nextjs",
-  "functions": {
-    "api/jobbank.js": {
-      "maxDuration": 10
-    }
-  }
-}
