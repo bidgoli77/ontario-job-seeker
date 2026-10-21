@@ -1,0 +1,9 @@
+{
+  "name": "ontario-job-matcher",
+  "version": "1.0.0",
+  "description": "Ontario Job Matcher PRO - Real Live Job Bank RSS - Direct Apply",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
